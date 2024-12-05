@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gpM6KJuAe+0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aleksandar Milovic\\Documents\\Programming Projects\\Pong\\Pong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleksandar Milovic\\.nuget\\packages\\raylib-cs\\6.1.1\\raylib-cs.6.1.1.nupkg.sha512",
+    "C:\\Users\\Aleksandar Milovic\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
